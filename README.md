@@ -64,6 +64,10 @@ React / Tauri 前端、LangGraph Agent、Rust 框架实验、C++ Windows 工具�
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a-rookie-of-C-language&layout=compact&theme=transparent&hide_border=true" alt="Top languages" />
 </p>
 
+[![star · owner/admin](https://img.shields.io/github/stars/a-rookie-of-C-language?affiliations=OWNER&label=star%20%C2%B7%20owner%2Fadmin&color=fe7d37)](https://github.com/a-rookie-of-C-language)
+[![star · collaborator](https://img.shields.io/github/stars/a-rookie-of-C-language?affiliations=COLLABORATOR&label=star%20%C2%B7%20collaborator&color=a371f7)](https://github.com/a-rookie-of-C-language)
+[![followers](https://img.shields.io/github/followers/a-rookie-of-C-language?style=flat&label=followers)](https://github.com/a-rookie-of-C-language)
+
 ## 联系我
 
 - GitHub: [@a-rookie-of-C-language](https://github.com/a-rookie-of-C-language)
