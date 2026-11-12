@@ -41,13 +41,13 @@ React / Tauri 前端、LangGraph Agent、Rust 框架实验、C++ Windows 工具�
 | 项目 | 简介 |
 | --- | --- |
 | [advisor-ai-platform](https://github.com/a-rookie-of-C-language/advisor-ai-platform) | 全栈 AI 顾问平台，包含 React 前端、Spring Boot 后端、Python RAG 服务、PostgreSQL、pgvector 和 Ollama 集成。 |
-| [ferryllm](https://github.com/a-rookie-of-C-language/ferryllm) | 基于 Rust 和 Tauri 的桌面优先 LLM 网关与启动器，支持 OpenAI / Anthropic / Responses 风格协议路由。 |
-| [WinuxCmd](https://github.com/a-rookie-of-C-language/WinuxCmd) | 面向 Windows Shell 的 GNU 风格命令工具集，让 Windows 下的文本管道更接近熟悉的 Unix 工作流。 |
-| [AI_Gateway](https://github.com/a-rookie-of-C-language/AI_Gateway) | Rust 实现的模型网关，采用 DDD 分层，支持租户 API Key、限流、流式聊天和 Provider 适配边界。 |
-| [rust-spring](https://github.com/a-rookie-of-C-language/rust-spring) | 用 Rust 重新理解 Spring 风格的 IoC、依赖注入、配置系统和注解式宏。 |
-| [arookieofcMQ](https://github.com/a-rookie-of-C-language/arookieofcMQ) | 从零实现的 Rust 消息队列学习项目，用来拆解 RocketMQ 等消息中间件的核心概念。 |
-| [winuxsh](https://github.com/a-rookie-of-C-language/winuxsh) | Rust 编写的 Windows 上类 Unix Shell，包含补全、主题、历史记录、脚本和插件能力。 |
-| [VD_spring](https://github.com/a-rookie-of-C-language/VD_spring) | 志愿时长管理系统，使用 Spring Boot、Spring Security、MyBatis、RabbitMQ、Redis、MySQL 和 Docker。 |
+| [ferryllm](https://github.com/arookieofc/ferryllm) | 基于 Rust 和 Tauri 的桌面优先 LLM 网关与启动器，支持 OpenAI / Anthropic / Responses 风格协议路由。 |
+| [WinuxCmd](https://github.com/arookieofc/WinuxCmd) | 面向 Windows Shell 的 GNU 风格命令工具集，让 Windows 下的文本管道更接近熟悉的 Unix 工作流。 |
+| [AI_Gateway](https://github.com/arookieofc/AI_Gateway) | Rust 实现的模型网关，采用 DDD 分层，支持租户 API Key、限流、流式聊天和 Provider 适配边界。 |
+| [rust-spring](https://github.com/arookieofc/rust-spring) | 用 Rust 重新理解 Spring 风格的 IoC、依赖注入、配置系统和注解式宏。 |
+| [arookieofcMQ](https://github.com/arookieofc/arookieofcMQ) | 从零实现的 Rust 消息队列学习项目，用来拆解 RocketMQ 等消息中间件的核心概念。 |
+| [winuxsh](https://github.com/arookieofc/winuxsh) | Rust 编写的 Windows 上类 Unix Shell，包含补全、主题、历史记录、脚本和插件能力。 |
+| [VD_spring](https://github.com/arookieofc/VD_spring) | 志愿时长管理系统，使用 Spring Boot、Spring Security、MyBatis、RabbitMQ、Redis、MySQL 和 Docker。 |
 | [WorkBranch](https://github.com/EfficiencAI/WorkBranch) | 基于 LangGraph 多 Agent 编排的 AI 工作空间，支持代码探索、文件操作、任务规划和 React 画布 UI。 |
 
 ## 近期关注
@@ -60,15 +60,10 @@ React / Tauri 前端、LangGraph Agent、Rust 框架实验、C++ Windows 工具�
 ## GitHub 数据
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=a-rookie-of-C-language&show_icons=true&theme=transparent&hide_border=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a-rookie-of-C-language&layout=compact&theme=transparent&hide_border=true" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=arookieofc&show_icons=true&theme=transparent&hide_border=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arookieofc&layout=compact&theme=transparent&hide_border=true" alt="Top languages" />
 </p>
 
-[![star · owner/admin](https://img.shields.io/github/stars/a-rookie-of-C-language?affiliations=OWNER&label=star%20%C2%B7%20owner%2Fadmin&color=fe7d37)](https://github.com/a-rookie-of-C-language)
-[![star · collaborator](https://img.shields.io/github/stars/a-rookie-of-C-language?affiliations=COLLABORATOR&label=star%20%C2%B7%20collaborator&color=a371f7)](https://github.com/a-rookie-of-C-language)
-[![followers](https://img.shields.io/github/followers/a-rookie-of-C-language?style=flat&label=followers)](https://github.com/a-rookie-of-C-language)
-
-## 联系我
-
-- GitHub: [@a-rookie-of-C-language](https://github.com/a-rookie-of-C-language)
-- Repositories: [github.com/a-rookie-of-C-language?tab=repositories](https://github.com/a-rookie-of-C-language?tab=repositories)
+[![star · owner/admin](https://img.shields.io/github/stars/arookieofc?affiliations=OWNER&label=star%20%C2%B7%20owner%2Fadmin&color=fe7d37)](https://github.com/a-rookie-of-C-language)
+[![star · collaborator](https://img.shields.io/github/stars/arookieofc?affiliations=COLLABORATOR&label=star%20%C2%B7%20collaborator&color=a371f7)](https://github.com/a-rookie-of-C-language)
+[![followers](https://img.shields.io/github/followers/arookieofc?style=flat&label=followers)](https://github.com/arookieofc)
