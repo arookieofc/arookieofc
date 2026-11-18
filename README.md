@@ -77,9 +77,5 @@ React / Tauri 前端、LangGraph Agent、Rust 框架实验、C++ Windows 工具�
 </p>
 
 <p align="center">
-  <img src="./assets/engineering-snapshot.svg" alt="Engineering snapshot" />
-</p>
-
-<p align="center">
-  <img src="./assets/language-footprint.svg" alt="Language footprint" />
+  <img src="./assets/top-languages.svg" alt="Most Used Languages" />
 </p>
