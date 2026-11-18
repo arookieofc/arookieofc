@@ -22,7 +22,7 @@
   <text x="46" y="131" fill="#0f172a" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="650">TypeScript</text>
   <rect x="170" y="117" width="500" height="18" rx="9" fill="#f1f5f9"/>
   <rect x="170" y="117" width="234" height="18" rx="9" fill="#3178c6"/>
-  <text x="690" y="131" text-anchor="end" fill="#475569" font-family="Segoe UI, Arial, sans-serif" font-size="13">46.9%</text>
+  <text x="690" y="131" text-anchor="end" fill="#475569" font-family="Segoe UI, Arial, sans-serif" font-size="13">46.8%</text>
   <text x="46" y="156" fill="#0f172a" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="650">CSS</text>
   <rect x="170" y="142" width="500" height="18" rx="9" fill="#f1f5f9"/>
   <rect x="170" y="142" width="10" height="18" rx="9" fill="#663399"/>
@@ -39,13 +39,13 @@
   <rect x="170" y="217" width="500" height="18" rx="9" fill="#f1f5f9"/>
   <rect x="170" y="217" width="2" height="18" rx="9" fill="#e34c26"/>
   <text x="690" y="231" text-anchor="end" fill="#475569" font-family="Segoe UI, Arial, sans-serif" font-size="13">0.5%</text>
-  <text x="46" y="256" fill="#0f172a" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="650">Vue</text>
+  <text x="46" y="256" fill="#0f172a" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="650">Python</text>
   <rect x="170" y="242" width="500" height="18" rx="9" fill="#f1f5f9"/>
-  <rect x="170" y="242" width="2" height="18" rx="9" fill="#41b883"/>
+  <rect x="170" y="242" width="2" height="18" rx="9" fill="#3572A5"/>
   <text x="690" y="256" text-anchor="end" fill="#475569" font-family="Segoe UI, Arial, sans-serif" font-size="13">0.4%</text>
-  <text x="46" y="281" fill="#0f172a" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="650">Python</text>
+  <text x="46" y="281" fill="#0f172a" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="650">Vue</text>
   <rect x="170" y="267" width="500" height="18" rx="9" fill="#f1f5f9"/>
-  <rect x="170" y="267" width="1" height="18" rx="9" fill="#3572A5"/>
+  <rect x="170" y="267" width="2" height="18" rx="9" fill="#41b883"/>
   <text x="690" y="281" text-anchor="end" fill="#475569" font-family="Segoe UI, Arial, sans-serif" font-size="13">0.4%</text>
   <text x="46" y="306" fill="#0f172a" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="650">Tree-sitter Query</text>
   <rect x="170" y="292" width="500" height="18" rx="9" fill="#f1f5f9"/>
