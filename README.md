@@ -4,13 +4,13 @@
   我在构建 AI 系统、后端平台、Rust 基础设施和开发者工具。
 </p>
 
-[![star · owner/admin](https://img.shields.io/github/stars/arookieofc?affiliations=OWNER&label=star%20%C2%B7%20owner%2Fadmin&color=fe7d37)](https://github.com/a-rookie-of-C-language)
-[![star · collaborator](https://img.shields.io/github/stars/arookieofc?affiliations=COLLABORATOR&label=star%20%C2%B7%20collaborator&color=a371f7)](https://github.com/a-rookie-of-C-language)
+[![star · owner/admin](https://img.shields.io/github/stars/arookieofc?affiliations=OWNER&label=star%20%C2%B7%20owner%2Fadmin&color=fe7d37)](https://github.com/arookieofc)
+[![star · collaborator](https://img.shields.io/github/stars/arookieofc?affiliations=COLLABORATOR&label=star%20%C2%B7%20collaborator&color=a371f7)](https://github.com/arookieofc)
 [![followers](https://img.shields.io/github/followers/arookieofc?style=flat&label=followers)](https://github.com/arookieofc)
 
 <p align="center">
   <a href="https://github.com/arookieofc">
-    <img src="https://komarev.com/ghpvc/?usernamearookieofc&style=flat-square&color=0e75b6" alt="profile views" />
+    <img src="https://komarev.com/ghpvc/?username=arookieofc&style=flat-square&color=0e75b6" alt="profile views" />
   </a>
   <a href="https://github.com/arookieofc?tab=repositories">
     <img src="https://img.shields.io/badge/Open%20Source-active-2ea44f?style=flat-square" alt="open source" />
@@ -62,20 +62,5 @@ React / Tauri 前端、LangGraph Agent、Rust 框架实验、C++ Windows 工具�
 - 让 Windows 成为更顺手的一等命令行开发环境。
 
 ## GitHub 数据
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=arookieofc&show_icons=true&theme=transparent&hide_border=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arookieofc&layout=compact&theme=transparent&hide_border=true" alt="Top languages" />
-</p>
-
-<p align="center">
   <img src="./assets/scoreboard.svg" alt="GitHub Scoreboard" />
-</p>
-
-<p align="center">
-  <sub>Stars = 个人 + 所在组织 + 协作仓库 · commits / PRs / Issues 为全历史（含私有）· 每天由 GitHub Actions 自动刷新 · 等级算法来自 github-readme-stats</sub>
-</p>
-
-<p align="center">
   <img src="./assets/top-languages.svg" alt="Most Used Languages" />
-</p>
