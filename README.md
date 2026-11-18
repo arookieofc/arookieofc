@@ -67,3 +67,19 @@ React / Tauri 前端、LangGraph Agent、Rust 框架实验、C++ Windows 工具�
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=arookieofc&show_icons=true&theme=transparent&hide_border=true" alt="GitHub stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arookieofc&layout=compact&theme=transparent&hide_border=true" alt="Top languages" />
 </p>
+
+<p align="center">
+  <img src="./assets/scoreboard.svg" alt="GitHub Scoreboard" />
+</p>
+
+<p align="center">
+  <sub>全历史 commits / PRs / Issues（含私有）· 每天由 GitHub Actions 自动刷新 · 等级算法来自 github-readme-stats</sub>
+</p>
+
+<p align="center">
+  <img src="./assets/engineering-snapshot.svg" alt="Engineering snapshot" />
+</p>
+
+<p align="center">
+  <img src="./assets/language-footprint.svg" alt="Language footprint" />
+</p>

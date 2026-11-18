@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="360" viewBox="0 0 760 360" role="img">
+  <defs>
+    <linearGradient id="header" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0ea5e9"/>
+      <stop offset="55%" stop-color="#22c55e"/>
+      <stop offset="100%" stop-color="#f59e0b"/>
+    </linearGradient>
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="8" stdDeviation="10" flood-color="#0f172a" flood-opacity="0.10"/>
+    </filter>
+  </defs>
+  <rect width="760" height="360" rx="18" fill="#ffffff"/>
+  <rect x="1" y="1" width="758" height="358" rx="17" fill="#ffffff" stroke="#e2e8f0"/>
+
+  <rect x="22" y="22" width="716" height="58" rx="16" fill="url(#header)" filter="url(#shadow)"/>
+  <text x="46" y="58" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="23" font-weight="750">Engineering Snapshot</text>
+  <text x="714" y="58" text-anchor="end" fill="#ecfeff" font-family="Segoe UI, Arial, sans-serif" font-size="13">arookieofc</text>
+  <rect x="46" y="92" width="158" height="58" rx="14" fill="#f8fafc" stroke="#e2e8f0"/>
+  <text x="62" y="118" fill="#0f172a" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="750">43+</text>
+  <text x="62" y="138" fill="#64748b" font-family="Segoe UI, Arial, sans-serif" font-size="12">Public Repos</text>
+  <rect x="222" y="92" width="158" height="58" rx="14" fill="#f8fafc" stroke="#e2e8f0"/>
+  <text x="238" y="118" fill="#0f172a" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="750">5</text>
+  <text x="238" y="138" fill="#64748b" font-family="Segoe UI, Arial, sans-serif" font-size="12">Original Stars</text>
+  <rect x="398" y="92" width="158" height="58" rx="14" fill="#f8fafc" stroke="#e2e8f0"/>
+  <text x="414" y="118" fill="#0f172a" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="750">Java / Rust / TS</text>
+  <text x="414" y="138" fill="#64748b" font-family="Segoe UI, Arial, sans-serif" font-size="12">Main Stack</text>
+  <rect x="574" y="92" width="158" height="58" rx="14" fill="#f8fafc" stroke="#e2e8f0"/>
+  <text x="590" y="118" fill="#0f172a" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="750">AI + Backend</text>
+  <text x="590" y="138" fill="#64748b" font-family="Segoe UI, Arial, sans-serif" font-size="12">Primary Theme</text>
+  <text x="46" y="176" fill="#0f172a" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="700">AI 工程</text>
+  <text x="244" y="176" fill="#475569" font-family="Segoe UI, Arial, sans-serif" font-size="13">AI_Gateway, Depthai, personal</text>
+  <text x="46" y="201" fill="#0f172a" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="700">后端开发</text>
+  <text x="244" y="201" fill="#475569" font-family="Segoe UI, Arial, sans-serif" font-size="13">ADE, ade-studio, JavaEEDesgin, roadmap</text>
+  <text x="46" y="226" fill="#0f172a" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="700">系统编程</text>
+  <text x="244" y="226" fill="#475569" font-family="Segoe UI, Arial, sans-serif" font-size="13">arookieofcMQ, arookieofcDB, arookieofcOS, rust-web</text>
+  <text x="46" y="251" fill="#0f172a" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="700">前端开发</text>
+  <text x="244" y="251" fill="#475569" font-family="Segoe UI, Arial, sans-serif" font-size="13">wild, htmlDesignVue, HTMLClassDesigin, MaZuGame</text>
+  <text x="46" y="276" fill="#0f172a" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="700">算法学习</text>
+  <text x="244" y="276" fill="#475569" font-family="Segoe UI, Arial, sans-serif" font-size="13">leetcode, DataStructureAndAlogorithm</text>
+  <text x="46" y="301" fill="#0f172a" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="700">工程配置</text>
+  <text x="244" y="301" fill="#475569" font-family="Segoe UI, Arial, sans-serif" font-size="13">magpie-lite, arookieofc, CRTP</text>
+  <text x="46" y="330" fill="#64748b" font-family="Segoe UI, Arial, sans-serif" font-size="13">Signal: AI systems, backend services, Rust infra, Windows DevEx.</text>
+</svg>
