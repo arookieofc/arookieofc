@@ -73,7 +73,7 @@ React / Tauri 前端、LangGraph Agent、Rust 框架实验、C++ Windows 工具�
 </p>
 
 <p align="center">
-  <sub>全历史 commits / PRs / Issues（含私有）· 每天由 GitHub Actions 自动刷新 · 等级算法来自 github-readme-stats</sub>
+  <sub>Stars = 个人 + 所在组织 + 协作仓库 · commits / PRs / Issues 为全历史（含私有）· 每天由 GitHub Actions 自动刷新 · 等级算法来自 github-readme-stats</sub>
 </p>
 
 <p align="center">
