@@ -1,14 +1,18 @@
-<h1 align="center">你好，我是 a-rookie-of-C-language</h1>
+<h1 align="center">你好，我是 arookieofc</h1>
 
 <p align="center">
   我在构建 AI 系统、后端平台、Rust 基础设施和开发者工具。
 </p>
 
+[![star · owner/admin](https://img.shields.io/github/stars/arookieofc?affiliations=OWNER&label=star%20%C2%B7%20owner%2Fadmin&color=fe7d37)](https://github.com/a-rookie-of-C-language)
+[![star · collaborator](https://img.shields.io/github/stars/arookieofc?affiliations=COLLABORATOR&label=star%20%C2%B7%20collaborator&color=a371f7)](https://github.com/a-rookie-of-C-language)
+[![followers](https://img.shields.io/github/followers/arookieofc?style=flat&label=followers)](https://github.com/arookieofc)
+
 <p align="center">
-  <a href="https://github.com/a-rookie-of-C-language">
-    <img src="https://komarev.com/ghpvc/?username=a-rookie-of-C-language&style=flat-square&color=0e75b6" alt="profile views" />
+  <a href="https://github.com/arookieofc">
+    <img src="https://komarev.com/ghpvc/?usernamearookieofc&style=flat-square&color=0e75b6" alt="profile views" />
   </a>
-  <a href="https://github.com/a-rookie-of-C-language?tab=repositories">
+  <a href="https://github.com/arookieofc?tab=repositories">
     <img src="https://img.shields.io/badge/Open%20Source-active-2ea44f?style=flat-square" alt="open source" />
   </a>
   <img src="https://img.shields.io/badge/Focus-AI%20%7C%20Rust%20%7C%20Backend%20%7C%20Fullstack-555?style=flat-square" alt="focus" />
@@ -63,7 +67,3 @@ React / Tauri 前端、LangGraph Agent、Rust 框架实验、C++ Windows 工具�
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=arookieofc&show_icons=true&theme=transparent&hide_border=true" alt="GitHub stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arookieofc&layout=compact&theme=transparent&hide_border=true" alt="Top languages" />
 </p>
-
-[![star · owner/admin](https://img.shields.io/github/stars/arookieofc?affiliations=OWNER&label=star%20%C2%B7%20owner%2Fadmin&color=fe7d37)](https://github.com/a-rookie-of-C-language)
-[![star · collaborator](https://img.shields.io/github/stars/arookieofc?affiliations=COLLABORATOR&label=star%20%C2%B7%20collaborator&color=a371f7)](https://github.com/a-rookie-of-C-language)
-[![followers](https://img.shields.io/github/followers/arookieofc?style=flat&label=followers)](https://github.com/arookieofc)
